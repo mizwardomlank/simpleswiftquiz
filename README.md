@@ -1,7 +1,7 @@
 # simpleswiftquiz
 learning swift
 
-![alt text](https://github.com/mizwardomlank/ios-calculator/blob/master/screenshot/Screenshot.png "Screenshot")
+![alt text](https://github.com/mizwardomlank/simpleswiftquiz/blob/master/screenshot/Screenshot.png "Screenshot")
 
 Simple quiz app for iOS
 
