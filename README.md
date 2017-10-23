@@ -3,7 +3,7 @@ learning swift
 
 ![alt text](https://github.com/mizwardomlank/ios-calculator/blob/master/screenshot/Screenshot.png "Screenshot")
 
-Simple calculator apps for iOS.
+Simple quiz app for iOS
 
 
 MIT Licence, 
